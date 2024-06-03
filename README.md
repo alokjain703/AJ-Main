@@ -1,2 +1,2 @@
-# AJ-Main
+# AJ-MainModule
 Testing repo with submodules
